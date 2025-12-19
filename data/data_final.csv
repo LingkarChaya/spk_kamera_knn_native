@@ -1,0 +1,980 @@
+Effective pixels,Optical_Zoom,Weight (inc. batteries),Dimensions,Label,Model,Release date
+5.0,3.1,170.0,91.0,Entry Level,Nikon Coolpix L3,2006
+3.0,3.0,190.0,88.0,Entry Level,Nikon Coolpix 4100,2004
+3.0,3.0,215.0,88.0,Entry Level,Nikon Coolpix 3100,2003
+1.0,3.0,215.0,88.0,Entry Level,Nikon Coolpix 2100,2003
+10.0,1.0,591.0,139.0,Entry Level,Leica M8,2006
+2.0,3.0,280.0,78.0,Entry Level,Leica Digilux 4.3,2000
+1.0,1.0,260.0,80.0,Entry Level,Leica Digilux,1998
+8.0,5.0,211.0,90.0,Entry Level,Kodak Z885,2007
+6.0,3.0,259.0,100.0,Entry Level,Kodak Z760,2005
+5.0,10.0,400.0,97.0,Entry Level,Kodak Z7590,2005
+5.0,10.0,330.0,98.0,Entry Level,Kodak Z740,2005
+5.0,4.0,270.0,100.0,Entry Level,Kodak Z730,2005
+7.0,11.8,350.0,104.0,Entry Level,Kodak Z712,2007
+7.0,10.0,360.0,98.0,Entry Level,Kodak Z710,2006
+4.0,5.0,270.0,97.0,Entry Level,Kodak Z700,2005
+6.0,5.0,195.0,90.0,Entry Level,Nikon Coolpix L1,2005
+6.0,10.0,320.0,98.0,Entry Level,Kodak Z650,2006
+12.0,5.0,211.0,90.0,Entry Level,Kodak Z1275,2007
+8.0,3.0,185.0,103.0,Entry Level,Kodak V803,2007
+7.0,5.1,165.0,101.0,Entry Level,Kodak V705,2006
+6.0,10.0,195.0,111.0,Entry Level,Kodak V610,2006
+5.0,3.0,175.0,101.0,Entry Level,Kodak V570,2006
+5.0,3.0,160.0,94.0,Entry Level,Kodak V550,2005
+5.0,3.0,150.0,92.0,Entry Level,Kodak V530,2005
+10.0,3.0,185.0,103.0,Entry Level,Kodak V1003,2007
+8.0,5.8,570.0,116.0,Entry Level,Kodak P880,2005
+5.0,12.0,450.0,108.0,Entry Level,Kodak P850,2005
+7.0,12.0,440.0,108.0,Entry Level,Kodak P712,2006
+8.0,3.0,166.0,92.0,Entry Level,Kodak M883,2007
+8.0,3.0,160.0,92.0,Entry Level,Kodak M873,2007
+8.0,3.0,165.0,93.0,Entry Level,Kodak M853,2007
+6.0,12.0,330.0,104.0,Entry Level,Kodak Z612,2006
+4.0,3.0,165.0,90.0,Entry Level,Nikon Coolpix L10,2007
+6.0,3.0,175.0,90.0,Entry Level,Nikon Coolpix L11,2007
+7.0,3.0,175.0,91.0,Entry Level,Nikon Coolpix L12,2007
+6.0,3.0,160.0,96.0,Entry Level,Olympus FE-140,2006
+5.0,3.0,160.0,96.0,Entry Level,Olympus FE-130,2006
+6.0,3.0,160.0,106.0,Entry Level,Olympus FE-120,2005
+5.0,2.8,160.0,88.0,Entry Level,Olympus FE-115,2006
+5.0,3.0,160.0,88.0,Entry Level,Olympus FE-110,2005
+4.0,3.0,160.0,88.0,Entry Level,Olympus FE-100,2005
+1.0,10.0,603.0,108.0,Entry Level,Olympus E-100 RS,2000
+4.0,3.0,175.0,94.0,Entry Level,Olympus D-630 Zoom,2005
+1.0,3.0,320.0,127.0,Entry Level,Olympus D-490 Zoom,2000
+1.0,3.0,320.0,127.0,Entry Level,Olympus D-450 Zoom,1999
+1.0,3.0,320.0,127.0,Entry Level,Olympus D-400 Zoom,1998
+7.0,4.1,480.0,116.0,Entry Level,Olympus C-7070 Wide Zoom,2005
+7.0,5.0,280.0,102.0,Entry Level,Olympus C-7000 Zoom,2004
+5.0,5.0,340.0,110.0,Entry Level,Olympus C-5500 Sport Zoom,2005
+3.0,3.0,420.0,110.0,Entry Level,Olympus C-4040 Zoom,2001
+3.0,3.0,400.0,110.0,Entry Level,Olympus C-4000 Zoom,2002
+2.0,3.1,530.0,109.0,Entry Level,Olympus C-2500 L,1999
+7.0,3.0,225.0,91.0,Entry Level,Nikon Coolpix L14,2007
+6.0,3.1,170.0,91.0,Entry Level,Nikon Coolpix L2,2006
+3.0,2.8,340.0,107.0,Entry Level,Toshiba PDR-M81,2001
+3.0,3.0,165.0,87.0,Entry Level,Nikon Coolpix L4,2006
+7.0,5.0,210.0,97.0,Entry Level,Nikon Coolpix L5,2006
+6.0,3.1,175.0,91.0,Entry Level,Nikon Coolpix L6,2006
+7.0,3.0,165.0,93.0,Entry Level,Kodak M753,2007
+8.0,3.6,185.0,91.0,Entry Level,Nikon Coolpix P1,2005
+6.0,10.0,280.0,113.0,Entry Level,Nikon Coolpix S10,2006
+1.0,3.0,380.0,108.0,Entry Level,Olympus C-2000 Zoom,1999
+1.0,3.0,250.0,118.0,Entry Level,Olympus D-510 Zoom,2001
+1.0,3.0,380.0,108.0,Entry Level,Olympus C-2020 Zoom,1999
+1.0,3.0,380.0,108.0,Entry Level,Olympus C-2040 Zoom,2000
+1.0,10.0,540.0,113.0,Entry Level,Olympus C-2100 UZ,2000
+5.0,3.0,170.0,90.0,Entry Level,Nikon Coolpix S1,2005
+5.0,3.0,210.0,95.0,Entry Level,Kodak LS755,2004
+5.0,3.0,220.0,108.0,Entry Level,Kodak LS753,2004
+4.0,2.8,220.0,108.0,Entry Level,Kodak LS743,2004
+2.0,3.0,550.0,118.0,Entry Level,Kodak DC290,1999
+2.0,2.0,420.0,133.0,Entry Level,Kodak DC280,1999
+1.0,3.0,550.0,118.0,Entry Level,Kodak DC265,1999
+1.0,3.0,550.0,118.0,Entry Level,Kodak DC260,1998
+1.0,3.0,420.0,133.0,Entry Level,Kodak DC240,1999
+4.0,3.0,240.0,103.0,Entry Level,Kodak CX7530,2004
+4.0,3.0,198.0,103.0,Entry Level,Kodak CX7430,2004
+3.0,3.0,225.0,103.0,Entry Level,Kodak CX7330,2004
+3.0,1.0,162.0,104.0,Entry Level,Kodak CX7300,2004
+2.0,2.1,195.0,104.0,Entry Level,Kodak CX7220,2004
+3.0,3.0,225.0,103.0,Entry Level,Kodak CX6330,2003
+2.0,3.0,225.0,104.0,Entry Level,Kodak CX6230,2003
+2.0,1.0,195.0,104.0,Entry Level,Kodak CX6200,2003
+3.0,2.0,250.0,109.0,Entry Level,Kodak CX4300,2002
+2.0,3.0,280.0,115.0,Entry Level,Kodak CX4230,2002
+2.0,1.0,250.0,109.0,Entry Level,Kodak CX4200,2002
+8.0,5.0,225.0,91.0,Entry Level,Kodak C875,2006
+3.0,1.0,198.0,104.0,Entry Level,Kodak C300,2005
+4.0,1.0,154.0,103.0,Entry Level,Kodak C310,2005
+4.0,3.0,180.0,91.0,Entry Level,Kodak C330,2005
+5.0,3.0,198.0,92.0,Entry Level,Kodak C340,2005
+5.0,3.0,170.0,84.0,Entry Level,Kodak C360,2005
+4.0,3.0,180.0,91.0,Entry Level,Kodak C433,2006
+2.0,2.0,420.0,133.0,Entry Level,Kodak DC3400,2000
+5.0,3.0,188.0,91.0,Entry Level,Kodak C513,2007
+6.0,3.0,187.0,91.0,Entry Level,Kodak C613,2007
+6.0,3.0,195.0,92.0,Entry Level,Kodak C643,2006
+6.0,3.0,195.0,89.0,Entry Level,Kodak C653,2007
+6.0,3.0,190.0,85.0,Entry Level,Kodak C663,2006
+7.0,3.0,195.0,92.0,Entry Level,Kodak C743,2006
+7.0,3.0,180.0,90.0,Entry Level,Kodak C763,2007
+5.0,3.0,200.0,91.0,Entry Level,Kodak C533,2006
+5.0,3.0,175.0,90.0,Entry Level,Olympus FE-150,2006
+2.0,1.0,200.0,95.0,Entry Level,Kodak DC3800,2000
+2.0,2.0,459.0,140.0,Entry Level,Kodak DC5000,2000
+3.0,3.0,260.0,114.0,Entry Level,Kodak LS633,2003
+4.0,3.0,260.0,109.0,Entry Level,Kodak LS443,2002
+2.0,1.0,160.0,109.0,Entry Level,Kodak LS420,2002
+6.0,3.0,270.0,100.0,Entry Level,Kodak DX7630,2004
+5.0,10.0,400.0,97.0,Entry Level,Kodak DX7590,2004
+4.0,4.0,270.0,100.0,Entry Level,Kodak DX7440,2004
+4.0,10.0,380.0,100.0,Entry Level,Kodak DX6490,2003
+4.0,4.0,270.0,109.0,Entry Level,Kodak DX6440,2003
+3.0,4.0,280.0,109.0,Entry Level,Kodak DX6340,2003
+4.0,2.0,260.0,116.0,Entry Level,Kodak DX4900,2002
+5.0,3.0,210.0,111.0,Entry Level,Kodak DX4530,2003
+3.0,3.0,260.0,111.0,Entry Level,Kodak DX4330,2002
+3.0,2.0,260.0,116.0,Entry Level,Kodak DX3900,2001
+3.0,1.0,250.0,150.0,Entry Level,Kodak DX3700,2001
+2.0,2.0,250.0,120.0,Entry Level,Kodak DX3600,2001
+2.0,1.0,225.0,120.0,Entry Level,Kodak DX3500,2001
+1.0,2.0,260.0,121.0,Entry Level,Kodak DX3215,2001
+13.0,1.0,1000.0,131.0,Entry Level,Kodak DCS 14n,2002
+1.0,1.0,1800.0,137.0,Entry Level,Kodak DCS315,1998
+3.0,1.0,1080.0,137.0,Entry Level,Kodak DCS330,1999
+1.0,1.0,1700.0,170.0,Entry Level,Kodak DCS420,1994
+6.0,1.0,1700.0,170.0,Entry Level,Kodak DCS460,1995
+2.0,1.0,1650.0,161.0,Entry Level,Kodak DCS520,1998
+3.0,3.0,320.0,120.0,Entry Level,Kodak DC4800,2000
+6.0,1.0,1650.0,161.0,Entry Level,Kodak DCS560,1998
+2.0,1.0,1580.0,194.0,Entry Level,Kodak DCS620x,2000
+6.0,1.0,1580.0,194.0,Entry Level,Kodak DCS660,1999
+2.0,1.0,1580.0,194.0,Entry Level,Kodak DCS720x,2001
+6.0,1.0,1860.0,194.0,Entry Level,Kodak DCS760,2001
+13.0,1.0,1000.0,137.0,Entry Level,Kodak DCS SLR/c,2004
+13.0,1.0,1000.0,131.0,Entry Level,Kodak DCS SLR/n,2004
+2.0,1.0,1580.0,194.0,Entry Level,Kodak DCS620,1999
+3.0,2.3,320.0,111.0,Entry Level,JVC GC-QX5HD,2001
+6.0,3.0,175.0,90.0,Entry Level,Olympus FE-170,2006
+6.0,5.0,195.0,98.0,Entry Level,Olympus FE-200,2006
+3.0,3.0,284.0,125.0,Entry Level,Sony DSC-P71,2002
+3.0,3.0,214.0,114.0,Entry Level,Sony DSC-P7,2002
+1.0,3.0,250.0,143.0,Entry Level,Sony DSC-P50,2001
+1.0,3.0,250.0,143.0,Entry Level,Sony DSC-P30,2001
+7.0,3.0,180.0,108.0,Entry Level,Sony DSC-P150,2004
+5.0,3.0,180.0,108.0,Entry Level,Sony DSC-P100,2004
+5.0,3.0,206.0,105.0,Entry Level,Sony DSC-P10,2003
+4.0,5.0,659.0,162.0,Entry Level,Sony DSC-F717,2002
+4.0,5.0,667.0,162.0,Entry Level,Sony DSC-F707,2001
+2.0,5.0,482.0,107.0,Entry Level,Sony DSC-F505V,2000
+1.0,5.0,475.0,107.0,Entry Level,Sony DSC-F505,1999
+1.0,5.0,900.0,130.0,Entry Level,Sony DSC-D770,1999
+1.0,5.0,900.0,130.0,Entry Level,Sony DSC-D700,1998
+3.0,1.0,950.0,152.0,Entry Level,Sigma SD9,2002
+3.0,3.0,259.0,120.0,Entry Level,Sony DSC-P72,2003
+4.0,1.0,750.0,144.0,Entry Level,Sigma SD14,2006
+3.0,3.0,190.0,100.0,Entry Level,Sanyo DSC-S1,2003
+8.0,5.0,222.0,104.0,Entry Level,Samsung S850,2007
+8.0,5.0,204.0,100.0,Entry Level,Samsung S85,2007
+8.0,3.0,220.0,100.0,Entry Level,Samsung S830,2007
+7.0,3.0,186.0,100.0,Entry Level,Samsung S730,2007
+6.0,3.0,186.0,100.0,Entry Level,Samsung S630,2007
+8.0,3.0,183.0,95.0,Entry Level,Samsung L830,2007
+7.0,3.6,210.0,105.0,Entry Level,Samsung L74 Wide,2007
+7.0,3.0,183.0,95.0,Entry Level,Samsung L730,2007
+7.0,3.0,180.0,98.0,Entry Level,Samsung L73,2007
+7.0,3.0,210.0,101.0,Entry Level,Samsung i7,2007
+3.0,3.6,215.0,112.0,Entry Level,Ricoh Caplio RX,2004
+3.0,3.0,340.0,135.0,Entry Level,Ricoh Caplio RR1,2001
+3.0,3.0,450.0,157.0,Entry Level,Ricoh RDC-i700,2000
+1.0,3.0,350.0,128.0,Entry Level,Sanyo VPC-Z400,1999
+3.0,3.0,243.0,116.0,Entry Level,Sony DSC-P73,2004
+1.0,3.0,370.0,113.0,Entry Level,Sony DSC-S30,2000
+4.0,3.0,184.0,99.0,Entry Level,Sony DSC-S40,2005
+3.0,2.8,340.0,107.0,Entry Level,Toshiba PDR-M71,2001
+3.0,3.0,390.0,116.0,Entry Level,Toshiba PDR-M70,2000
+3.0,3.0,320.0,120.0,Entry Level,Toshiba PDR-M65,2001
+2.0,3.0,310.0,123.0,Entry Level,Toshiba PDR-M61,2001
+1.0,3.0,350.0,130.0,Entry Level,Toshiba PDR-M5,1999
+1.0,1.0,290.0,112.0,Entry Level,Toshiba PDR-M4,1999
+1.0,3.0,380.0,122.0,Entry Level,Toshiba PDR-M3,1999
+1.0,1.0,240.0,116.0,Entry Level,Toshiba PDR-M11,2001
+1.0,1.0,290.0,123.0,Entry Level,Toshiba PDR-M1,1998
+7.0,3.0,175.0,91.0,Entry Level,Sony DSC-W80,2007
+7.0,3.0,157.0,89.0,Entry Level,Sony DSC-W70,2006
+7.0,3.0,250.0,91.0,Entry Level,Sony DSC-W7,2005
+6.0,3.0,157.0,89.0,Entry Level,Sony DSC-W50,2006
+6.0,3.0,153.0,90.0,Entry Level,Sony DSC-W30,2006
+8.0,3.0,192.0,94.0,Entry Level,Sony DSC-W100,2006
+2.0,1.0,200.0,60.0,Entry Level,Sony DSC-U60,2003
+2.0,1.0,132.0,100.0,Entry Level,Sony DSC-U50,2003
+1.0,3.0,370.0,113.0,Entry Level,Sony DSC-S50,2000
+4.0,3.0,249.0,97.0,Entry Level,Sony DSC-S60,2005
+6.0,3.0,180.0,100.0,Entry Level,Sony DSC-S600,2006
+7.0,3.0,178.0,91.0,Entry Level,Sony DSC-S650,2007
+3.0,3.0,420.0,117.0,Entry Level,Sony DSC-S70,2000
+7.0,3.0,178.0,91.0,Entry Level,Sony DSC-S700,2007
+1.0,1.0,300.0,110.0,Entry Level,Ricoh RDC-6000,2000
+3.0,3.0,444.0,125.0,Entry Level,Sony DSC-S75,2001
+3.0,3.0,444.0,125.0,Entry Level,Sony DSC-S85,2001
+4.0,3.0,253.0,97.0,Entry Level,Sony DSC-S90,2005
+5.0,3.0,134.0,92.0,Entry Level,Sony DSC-T7,2005
+1.0,1.0,118.0,85.0,Entry Level,Sony DSC-U10,2002
+2.0,1.0,130.0,85.0,Entry Level,Sony DSC-U30,2003
+2.0,1.0,130.0,83.0,Entry Level,Sony DSC-U40,2003
+8.0,6.0,245.0,93.0,Entry Level,Sony DSC-S800,2007
+2.0,2.3,340.0,131.0,Entry Level,Ricoh RDC-5000,1999
+1.0,3.0,320.0,135.0,Entry Level,Ricoh RDC-4300,1998
+8.0,3.0,260.0,114.0,Entry Level,Ricoh Caplio GX8,2005
+6.0,3.0,200.0,91.0,Entry Level,Pentax Optio 60,2005
+5.0,5.1,250.0,100.0,Entry Level,Pentax Optio 555,2003
+5.0,5.1,250.0,100.0,Entry Level,Pentax Optio 550,2003
+4.0,3.0,180.0,91.0,Entry Level,Pentax Optio 50,2005
+3.0,5.1,250.0,100.0,Entry Level,Pentax Optio 450,2003
+3.0,3.0,180.0,94.0,Entry Level,Pentax Optio 30,2004
+7.0,6.0,234.0,99.0,Entry Level,Panasonic Lumix DMC-LZ7,2007
+7.0,6.0,230.0,99.0,Entry Level,Panasonic Lumix DMC-LZ6,2007
+6.0,6.0,230.0,100.0,Entry Level,Panasonic Lumix DMC-LZ5,2006
+5.0,6.0,230.0,100.0,Entry Level,Panasonic Lumix DMC-LZ3,2006
+5.0,6.0,224.0,101.0,Entry Level,Panasonic Lumix DMC-LZ2,2005
+4.0,6.0,224.0,101.0,Entry Level,Panasonic Lumix DMC-LZ1,2005
+6.0,3.0,188.0,94.0,Entry Level,Panasonic Lumix DMC-LS60,2007
+7.0,12.0,340.0,113.0,Entry Level,Panasonic Lumix DMC-FZ8,2007
+6.0,12.0,340.0,113.0,Entry Level,Panasonic Lumix DMC-FZ7,2006
+10.0,12.0,734.0,141.0,Entry Level,Panasonic Lumix DMC-FZ50,2006
+4.0,12.0,326.0,108.0,Entry Level,Panasonic Lumix DMC-FZ5,2005
+7.0,3.0,175.0,90.0,Entry Level,Olympus FE-210,2007
+7.0,3.0,145.0,91.0,Entry Level,Olympus FE-230,2007
+7.0,5.0,145.0,91.0,Entry Level,Olympus FE-240,2007
+8.0,2.8,155.0,94.0,Entry Level,Olympus FE-250,2007
+7.0,3.0,122.0,90.0,Entry Level,Olympus FE-270,2007
+7.0,4.0,142.0,98.0,Entry Level,Olympus FE-290,2007
+7.0,5.1,255.0,100.0,Entry Level,Pentax Optio 750Z,2004
+12.0,3.0,115.0,94.0,Entry Level,Olympus FE-300,2007
+2.0,12.0,354.0,125.0,Entry Level,Panasonic Lumix DMC-FZ1,2002
+4.0,12.0,550.0,87.0,Entry Level,Panasonic Lumix DMC-FZ10,2003
+8.0,18.0,407.0,118.0,Entry Level,Panasonic Lumix DMC-FZ18,2007
+2.0,12.0,350.0,114.0,Entry Level,Panasonic Lumix DMC-FZ2,2003
+5.0,12.0,556.0,87.0,Entry Level,Panasonic Lumix DMC-FZ20,2004
+4.0,12.0,326.0,102.0,Entry Level,Panasonic Lumix DMC-FZ4,2005
+4.0,3.0,160.0,99.0,Entry Level,Olympus IR-300,2005
+6.0,3.0,150.0,91.0,Entry Level,Olympus FE-190,2006
+10.0,3.0,145.0,89.0,Entry Level,Pentax Optio A20,2006
+6.0,3.0,180.0,90.0,Entry Level,Pentax Optio E20,2006
+3.0,3.0,230.0,124.0,Entry Level,Ricoh Caplio G3,2003
+8.0,7.1,135.0,100.0,Entry Level,Ricoh Caplio R7,2007
+7.0,7.1,165.0,100.0,Entry Level,Ricoh Caplio R6,2007
+7.0,7.1,165.0,96.0,Entry Level,Ricoh Caplio R5,2006
+6.0,7.1,165.0,95.0,Entry Level,Ricoh Caplio R4,2006
+4.0,5.7,180.0,95.0,Entry Level,Ricoh Caplio R30,2006
+4.0,7.1,165.0,95.0,Entry Level,Ricoh Caplio R3,2005
+4.0,4.8,195.0,100.0,Entry Level,Ricoh Caplio R2,2005
+4.0,4.8,195.0,100.0,Entry Level,Ricoh Caplio R1V,2005
+5.0,3.0,145.0,112.0,Entry Level,Pentax Optio X,2004
+7.0,3.0,155.0,95.0,Entry Level,Pentax Optio T20,2006
+5.0,5.0,165.0,91.0,Entry Level,Pentax Optio SVi,2005
+5.0,5.0,165.0,91.0,Entry Level,Pentax Optio SV,2004
+7.0,3.0,120.0,86.0,Entry Level,Pentax Optio S7,2006
+6.0,3.0,135.0,89.0,Entry Level,Pentax Optio S60,2005
+6.0,3.0,120.0,86.0,Entry Level,Pentax Optio S6,2005
+5.0,3.1,120.0,83.0,Entry Level,Pentax Optio S5z,2005
+7.0,3.0,190.0,95.0,Entry Level,Pentax Optio E30,2007
+8.0,3.0,175.0,94.0,Entry Level,Pentax Optio E40,2007
+7.0,3.0,180.0,94.0,Entry Level,Pentax Optio M20,2006
+8.0,3.0,136.0,97.0,Entry Level,Pentax Optio M40,2007
+4.0,10.0,375.0,73.0,Entry Level,Pentax Optio MX4,2004
+3.0,3.0,115.0,83.0,Entry Level,Pentax Optio S,2003
+6.0,3.0,180.0,87.0,Entry Level,Pentax Optio E10,2006
+4.0,3.0,115.0,83.0,Entry Level,Pentax Optio S4,2003
+4.0,3.1,155.0,89.0,Entry Level,Pentax Optio S45,2005
+4.0,3.0,120.0,84.0,Entry Level,Pentax Optio S4i,2004
+5.0,3.1,180.0,89.0,Entry Level,Pentax Optio S50,2004
+5.0,3.1,155.0,89.0,Entry Level,Pentax Optio S55,2005
+4.0,3.0,120.0,84.0,Entry Level,Pentax Optio S5i,2004
+4.0,3.1,120.0,84.0,Entry Level,Pentax Optio S5n,2005
+4.0,3.0,175.0,89.0,Entry Level,Pentax Optio S40,2004
+3.0,2.3,320.0,111.0,Entry Level,JVC GC-QX3HD,2001
+1.0,1.0,180.0,86.0,Entry Level,Toshiba PDR-T10,2002
+7.0,4.0,205.0,91.0,Entry Level,Canon PowerShot A560,2007
+5.0,4.0,215.0,106.0,Entry Level,Canon PowerShot A460,2007
+1.0,2.5,290.0,103.0,Entry Level,Canon PowerShot A50,1999
+3.0,4.0,230.0,91.0,Entry Level,Canon PowerShot A510,2005
+3.0,4.0,230.0,91.0,Entry Level,Canon PowerShot A520,2005
+5.0,4.0,220.0,90.0,Entry Level,Canon PowerShot A530,2006
+6.0,4.0,230.0,90.0,Entry Level,Canon PowerShot A540,2006
+7.0,4.0,210.0,91.0,Entry Level,Canon PowerShot A550,2007
+8.0,7.1,640.0,118.0,Entry Level,Canon PowerShot Pro1,2004
+7.0,4.0,215.0,90.0,Entry Level,Canon PowerShot A570 IS,2007
+1.0,3.0,315.0,101.0,Entry Level,Canon PowerShot A60,2003
+5.0,4.0,285.0,105.0,Entry Level,Canon PowerShot A610,2005
+7.0,4.0,285.0,105.0,Entry Level,Canon PowerShot A620,2005
+8.0,4.0,315.0,109.0,Entry Level,Canon PowerShot A630,2006
+10.0,4.0,315.0,109.0,Entry Level,Canon PowerShot A640,2006
+3.0,3.0,315.0,101.0,Entry Level,Canon PowerShot A70,2003
+6.0,6.0,250.0,94.0,Entry Level,Canon PowerShot A700,2006
+7.0,6.0,210.0,98.0,Entry Level,Canon PowerShot A710 IS,2006
+3.0,3.0,315.0,101.0,Entry Level,Canon PowerShot A75,2004
+3.0,3.0,350.0,103.0,Entry Level,Canon PowerShot A80,2003
+4.0,3.0,300.0,101.0,Entry Level,Canon PowerShot A85,2004
+5.0,3.0,335.0,101.0,Entry Level,Canon PowerShot A95,2004
+5.0,4.0,490.0,121.0,Entry Level,Canon PowerShot G5,2003
+3.0,3.0,230.0,87.0,Entry Level,Canon PowerShot S400,2003
+4.0,3.0,203.0,92.0,Entry Level,Epson PhotoPC L-410,2004
+5.0,3.2,215.0,106.0,Entry Level,Canon PowerShot A450,2007
+7.0,10.0,260.0,89.0,Entry Level,Canon PowerShot TX1,2007
+3.0,3.0,215.0,87.0,Entry Level,Canon PowerShot S410,2004
+1.0,3.0,350.0,110.0,Entry Level,Canon PowerShot A30,2002
+1.0,3.0,375.0,110.0,Entry Level,Canon PowerShot A10,2001
+1.0,1.0,225.0,110.0,Entry Level,Canon PowerShot A100,2002
+3.0,1.0,205.0,110.0,Entry Level,Canon PowerShot A310,2004
+4.0,3.0,285.0,105.0,Entry Level,Epson PhotoPC L-400,2003
+3.0,1.0,225.0,111.0,Entry Level,Canon PowerShot A300,2003
+3.0,2.2,255.0,107.0,Entry Level,Canon PowerShot A400,2004
+1.0,3.0,350.0,110.0,Entry Level,Canon PowerShot A40,2002
+4.0,3.2,200.0,103.0,Entry Level,Canon PowerShot A420,2006
+5.0,3.0,215.0,87.0,Entry Level,Canon PowerShot S500,2004
+1.0,1.0,225.0,110.0,Entry Level,Canon PowerShot A200,2002
+3.0,3.0,323.0,112.0,Entry Level,Canon PowerShot S40,2001
+1.0,3.0,375.0,110.0,Entry Level,Canon PowerShot A20,2001
+4.0,4.0,210.0,103.0,Entry Level,Canon PowerShot A430,2006
+3.0,3.2,195.0,103.0,Entry Level,Canon PowerShot A410,2005
+3.0,3.0,323.0,112.0,Entry Level,Canon PowerShot S45,2002
+3.0,3.0,240.0,92.0,Mid Range,Pentax Optio 430,2001
+3.0,3.0,240.0,92.0,Mid Range,Pentax Optio 430RS,2002
+8.0,12.0,550.0,117.0,Mid Range,Canon PowerShot S5 IS,2007
+10.0,3.0,205.0,91.0,Mid Range,Canon PowerShot SD900,2006
+8.0,3.8,165.0,93.0,Mid Range,Canon PowerShot SD870 IS,2007
+7.0,3.8,195.0,90.0,Mid Range,Canon PowerShot SD800 IS,2006
+7.0,3.0,170.0,92.0,Mid Range,Canon PowerShot SD750,2007
+6.0,4.0,195.0,90.0,Mid Range,Canon PowerShot SD700 IS,2006
+3.0,2.8,200.0,82.0,Mid Range,Pentax Optio 43WR,2004
+8.0,4.0,195.0,90.0,Mid Range,Canon PowerShot SD850 IS,2007
+7.0,3.0,155.0,108.0,Mid Range,Pentax Optio W30,2007
+3.0,3.0,225.0,109.0,Mid Range,Pentax Optio 33LF,2003
+4.0,10.0,250.0,112.0,Mid Range,Panasonic Lumix DMC-TZ1,2006
+6.0,10.0,260.0,105.0,Mid Range,Panasonic Lumix DMC-TZ2,2007
+7.0,10.0,280.0,105.0,Mid Range,Panasonic Lumix DMC-TZ3,2007
+1.0,1.0,240.0,105.0,Mid Range,Pentax EI-100,2001
+1.0,3.2,390.0,128.0,Mid Range,Pentax EI-200,2000
+1.0,3.2,630.0,144.0,Mid Range,Pentax EI-2000,2000
+6.0,1.0,660.0,129.0,Mid Range,Pentax K100D,2006
+6.0,1.0,646.0,129.0,Mid Range,Pentax K100D Super,2007
+6.0,1.0,585.0,129.0,Mid Range,Pentax K110D,2006
+1.0,3.0,230.0,104.0,Mid Range,Pentax Optio 230,2002
+12.0,3.7,205.0,96.0,Mid Range,Canon PowerShot SD950 IS,2007
+3.0,3.0,240.0,92.0,Mid Range,Pentax Optio 330,2001
+3.0,3.0,230.0,104.0,Mid Range,Pentax Optio 330GS,2002
+3.0,3.0,240.0,92.0,Mid Range,Pentax Optio 330RS,2002
+3.0,3.0,225.0,105.0,Mid Range,Pentax Optio 33L,2003
+3.0,2.8,208.0,82.0,Mid Range,Pentax Optio 33WR,2003
+8.0,3.0,145.0,89.0,Mid Range,Pentax Optio A10,2006
+7.0,3.0,185.0,90.0,Mid Range,Canon PowerShot SD550,2005
+10.0,3.0,145.0,89.0,Mid Range,Pentax Optio A30,2007
+7.0,3.6,300.0,114.0,Mid Range,Canon PowerShot S70,2004
+8.0,3.6,290.0,104.0,Mid Range,Canon PowerShot S80,2005
+3.0,1.0,140.0,90.0,Mid Range,Canon PowerShot SD10,2003
+3.0,2.0,185.0,85.0,Mid Range,Canon PowerShot SD100,2003
+7.0,3.0,175.0,86.0,Mid Range,Canon PowerShot SD1000,2007
+5.0,3.0,323.0,112.0,Mid Range,Canon PowerShot S50,2003
+3.0,2.0,195.0,85.0,Mid Range,Canon PowerShot SD110,2004
+5.0,1.0,140.0,90.0,Mid Range,Canon PowerShot SD20,2004
+3.0,3.0,135.0,86.0,Mid Range,Canon PowerShot SD200,2004
+5.0,2.4,120.0,96.0,Mid Range,Canon PowerShot SD30,2005
+3.0,3.0,175.0,89.0,Mid Range,Pentax Optio S30,2004
+10.0,3.0,116.0,86.0,Mid Range,Pentax Optio S10,2007
+3.0,3.0,147.0,86.0,Mid Range,Canon PowerShot SD300,2004
+7.0,2.4,120.0,96.0,Mid Range,Canon PowerShot SD40,2006
+5.0,3.0,150.0,86.0,Mid Range,Canon PowerShot SD400,2005
+7.0,3.0,120.0,97.0,Mid Range,Pentax Optio M30,2007
+8.0,10.0,316.0,109.0,Mid Range,Canon PowerShot SX100 IS,2007
+6.0,3.0,155.0,95.0,Mid Range,Pentax Optio T10,2006
+7.0,2.9,155.0,95.0,Mid Range,Pentax Optio T30,2007
+6.0,3.0,160.0,107.0,Mid Range,Pentax Optio W10,2006
+5.0,3.0,185.0,99.0,Mid Range,Canon PowerShot SD430 Wireless,2005
+7.0,3.0,150.0,107.0,Mid Range,Pentax Optio W20,2006
+6.0,3.0,170.0,89.0,Mid Range,Pentax Optio M10,2006
+5.0,3.0,155.0,86.0,Mid Range,Canon PowerShot SD450,2005
+7.0,3.0,200.0,90.0,Mid Range,Canon PowerShot SD500,2005
+5.0,3.6,300.0,114.0,Mid Range,Canon PowerShot S60,2004
+6.0,3.0,170.0,86.0,Mid Range,Canon PowerShot SD600,2006
+6.0,3.0,175.0,90.0,Mid Range,Canon PowerShot SD630,2006
+7.0,18.0,460.0,116.0,Mid Range,Olympus SP-550 UZ,2007
+8.0,3.6,154.0,95.0,Mid Range,Panasonic Lumix DMC-FX33,2007
+5.0,4.0,275.0,98.0,Mid Range,Casio Exilim EX-P600,2004
+12.0,3.0,125.0,98.0,Mid Range,Olympus Stylus 1200,2007
+10.0,3.0,195.0,97.0,Mid Range,Olympus Stylus 1000,2006
+6.0,3.0,180.0,98.0,Mid Range,Olympus SP-700,2005
+8.0,18.0,365.0,116.0,Mid Range,Olympus SP-560 UZ,2007
+7.0,10.0,410.0,106.0,Mid Range,Olympus SP-510 UZ,2006
+6.0,10.0,385.0,106.0,Mid Range,Olympus SP-500 UZ,2005
+8.0,3.0,245.0,100.0,Mid Range,Olympus SP-350,2005
+7.0,3.0,230.0,100.0,Mid Range,Olympus SP-320,2006
+7.0,3.0,230.0,100.0,Mid Range,Olympus SP-310,2005
+3.0,3.0,220.0,99.0,Mid Range,Olympus Stylus 400 ,2003
+3.0,3.0,220.0,99.0,Mid Range,Olympus Stylus 300 ,2003
+10.0,3.0,165.0,91.0,Mid Range,Casio Exilim EX-Z1080,2007
+6.0,3.3,151.0,90.0,Mid Range,Casio Exilim EX-Z110,2005
+7.0,3.0,154.0,90.0,Mid Range,Casio Exilim EX-Z120,2005
+8.0,3.0,108.0,92.0,Mid Range,Olympus FE-280,2007
+12.0,3.0,162.0,93.0,Mid Range,Casio Exilim EX-Z1200 SR,2007
+3.0,3.0,170.0,87.0,Mid Range,Casio Exilim EX-Z3,2003
+7.0,3.0,165.0,89.0,Mid Range,Casio Exilim EX-Z750,2005
+7.0,3.0,156.0,95.0,Mid Range,Casio Exilim EX-Z75,2007
+7.0,3.0,154.0,89.0,Mid Range,Casio Exilim EX-Z700,2006
+7.0,3.0,140.0,95.0,Mid Range,Casio Exilim EX-Z70,2006
+6.0,3.0,148.0,95.0,Mid Range,Casio Exilim EX-Z60,2006
+4.0,3.0,175.0,89.0,Mid Range,Casio Exilim EX-Z57,2005
+3.0,3.0,200.0,99.0,Mid Range,Olympus Stylus 410 ,2004
+5.0,3.0,180.0,87.0,Mid Range,Casio Exilim EX-Z55,2004
+6.0,3.0,170.0,88.0,Mid Range,Olympus FE-180,2006
+5.0,3.0,171.0,87.0,Mid Range,Casio Exilim EX-Z50,2004
+4.0,3.0,160.0,95.0,Mid Range,Casio Exilim EX-Z5,2006
+4.0,3.0,150.0,87.0,Mid Range,Casio Exilim EX-Z40,2004
+4.0,3.0,170.0,87.0,Mid Range,Casio Exilim EX-Z4,2003
+3.0,3.0,150.0,87.0,Mid Range,Casio Exilim EX-Z30,2004
+5.0,3.0,127.0,89.0,Mid Range,Casio Exilim EX-Z500,2005
+4.0,3.0,200.0,99.0,Mid Range,Olympus Stylus 500 ,2004
+6.0,3.0,195.0,97.0,Mid Range,Olympus Stylus 600 ,2005
+7.0,3.0,140.0,95.0,Mid Range,Olympus Stylus 700 ,2006
+10.0,3.0,185.0,92.0,Mid Range,Casio Exilim EX-Z1000,2006
+5.0,3.3,154.0,90.0,Mid Range,Casio Exilim EX-Z10,2005
+8.0,7.0,199.0,96.0,Mid Range,Casio Exilim EX-V8,2007
+7.0,7.0,190.0,96.0,Mid Range,Casio Exilim EX-V7,2007
+3.0,12.0,326.0,108.0,Mid Range,Panasonic Lumix DMC-FZ3,2004
+8.0,12.0,740.0,141.0,Mid Range,Panasonic Lumix DMC-FZ30,2005
+10.0,3.0,165.0,91.0,Mid Range,Casio Exilim EX-Z1050,2007
+8.0,3.0,138.0,94.5,Mid Range,Casio Exilim EX-S880,2007
+6.0,3.0,155.0,90.0,Mid Range,Casio Exilim EX-S600,2005
+4.0,3.0,125.0,90.0,Mid Range,Casio Exilim EX-S500,2005
+3.0,1.0,110.0,90.0,Mid Range,Casio Exilim EX-S3,2003
+1.0,1.0,100.0,83.0,Mid Range,Casio Exilim EX-S20,2003
+3.0,2.8,123.0,88.0,Mid Range,Casio Exilim EX-S100,2004
+7.0,4.0,275.0,98.0,Mid Range,Casio Exilim EX-P700,2004
+6.0,3.0,155.0,90.0,Mid Range,Casio Exilim EX-S600d,2006
+4.0,5.0,275.0,99.0,Mid Range,Casio Exilim EX-P505,2005
+7.0,3.6,162.0,95.0,Mid Range,Panasonic Lumix DMC-FX30,2007
+4.0,2.0,165.0,95.0,Mid Range,Olympus Stylus Verve  S,2005
+7.0,3.0,190.0,95.0,Mid Range,Olympus Stylus 720 SW ,2006
+7.0,3.0,190.0,91.0,Mid Range,Olympus Stylus 725 SW,2006
+7.0,3.0,190.0,96.0,Mid Range,Olympus Stylus 730,2006
+7.0,5.0,160.0,96.0,Mid Range,Olympus Stylus 740,2006
+7.0,5.0,170.0,96.0,Mid Range,Olympus Stylus 750,2006
+7.0,3.0,160.0,99.0,Mid Range,Olympus Stylus 760,2007
+6.0,3.0,165.0,94.0,Mid Range,Panasonic Lumix DMC-FX3,2006
+7.0,3.0,195.0,92.0,Mid Range,Olympus Stylus 770 SW,2007
+7.0,3.0,155.0,92.0,Mid Range,Olympus Stylus 790 SW,2007
+8.0,3.0,200.0,103.0,Mid Range,Olympus Stylus 800 ,2005
+8.0,3.0,185.0,97.0,Mid Range,Olympus Stylus 810 ,2006
+8.0,5.0,125.0,96.0,Mid Range,Olympus Stylus 820,2007
+8.0,5.0,125.0,100.0,Mid Range,Olympus Stylus 830,2007
+3.0,2.0,165.0,95.0,Mid Range,Olympus Stylus Verve ,2004
+7.0,5.0,195.0,100.0,Mid Range,Olympus Stylus 780,2007
+4.0,3.0,135.0,102.0,Mid Range,Pentax Optio WP,2005
+2.0,3.0,500.0,144.0,Mid Range,Ricoh RDC-200G,2000
+8.0,3.0,450.0,133.0,Mid Range,Ricoh Caplio 500G,2006
+5.0,3.0,259.0,120.0,Mid Range,Sony DSC-P92,2003
+3.0,3.0,206.0,113.0,Mid Range,Sony DSC-P9,2002
+3.0,3.0,206.0,105.0,Mid Range,Sony DSC-P8,2003
+3.0,2.0,280.0,123.0,Mid Range,Sony DSC-P52,2003
+1.0,2.0,275.0,127.0,Mid Range,Sony DSC-P51,2002
+3.0,3.0,214.0,113.0,Mid Range,Sony DSC-P5,2001
+3.0,1.0,180.0,106.0,Mid Range,Sony DSC-P41,2004
+3.0,1.0,217.0,101.0,Mid Range,Sony DSC-P32,2003
+1.0,1.0,231.0,106.0,Mid Range,Sony DSC-P31,2002
+2.0,1.0,194.0,113.0,Mid Range,Sony DSC-P3,2001
+7.0,3.0,180.0,104.0,Mid Range,Sony DSC-P200,2005
+1.0,1.0,230.0,123.0,Mid Range,Sony DSC-P20,2001
+1.0,3.0,214.0,114.0,Mid Range,Sony DSC-P2,2002
+3.0,3.0,250.0,114.0,Mid Range,Sony DSC-P1,2000
+5.0,3.0,236.0,117.0,Mid Range,Sony DSC-P93,2004
+10.0,3.0,139.0,94.0,Mid Range,Sony DSC-N2,2006
+5.0,3.0,240.0,51.0,Mid Range,Sony DSC-M2,2005
+5.0,3.0,215.0,51.0,Mid Range,Sony DSC-M1,2004
+4.0,3.0,152.0,95.0,Mid Range,Sony DSC-L1,2004
+8.0,15.0,440.0,110.0,Mid Range,Sony DSC-H9,2007
+8.0,15.0,405.0,110.0,Mid Range,Sony DSC-H7,2007
+7.0,12.0,490.0,108.0,Mid Range,Sony DSC-H5,2006
+8.0,10.0,264.0,106.0,Mid Range,Sony DSC-H3,2007
+6.0,12.0,490.0,108.0,Mid Range,Sony DSC-H2,2006
+5.0,12.0,591.0,108.0,Mid Range,Sony DSC-H1,2005
+6.0,3.0,238.0,93.0,Mid Range,Sony DSC-G1,2007
+5.0,3.0,202.0,98.0,Mid Range,Sony DSC-F88,2004
+8.0,7.1,906.0,134.0,Mid Range,Sony DSC-F828,2003
+2.0,1.0,280.0,103.0,Mid Range,Sony DSC-F55V,2000
+1.0,1.0,300.0,103.0,Mid Range,Sony DSC-F55,1999
+8.0,3.0,139.0,94.0,Mid Range,Sony DSC-N1,2005
+1.0,2.8,340.0,106.0,Mid Range,Sanyo DSC-MZ1,2001
+10.0,5.0,995.0,139.0,Mid Range,Sony DSC-R1,2005
+12.0,6.0,300.0,97.0,Mid Range,Canon PowerShot A650 IS,2007
+1.0,1.0,270.0,119.0,Mid Range,Agfa ePhoto CL45,2001
+2.0,2.3,320.0,121.0,Mid Range,Toshiba PDR-M60,2000
+2.0,3.0,320.0,105.0,Mid Range,Toshiba PDR-M25,2001
+1.0,1.0,240.0,116.0,Mid Range,Toshiba PDR-M21,2001
+4.0,3.0,230.0,93.0,Mid Range,Toshiba PDR-5300,2003
+3.0,2.9,320.0,116.0,Mid Range,Toshiba PDR-3330,2002
+3.0,3.0,205.0,91.0,Mid Range,Toshiba PDR-3310,2002
+12.0,1.0,768.0,142.0,Mid Range,Sony DSLR-A700,2007
+10.0,1.0,638.0,133.0,Mid Range,Sony DSLR-A100,2006
+8.0,3.0,175.0,91.0,Mid Range,Sony DSC-W90,2007
+7.0,3.0,147.0,90.0,Mid Range,Sony DSC-W55,2007
+5.0,3.0,250.0,91.0,Mid Range,Sony DSC-W5,2005
+7.0,3.0,149.0,90.0,Mid Range,Sony DSC-W35,2007
+12.0,3.0,195.0,91.0,Mid Range,Sony DSC-W200,2007
+8.0,6.0,250.0,97.0,Mid Range,Canon PowerShot A720 IS,2007
+5.0,3.0,250.0,91.0,Mid Range,Sony DSC-W1,2004
+5.0,4.0,298.0,99.0,Mid Range,Sony DSC-V1,2003
+2.0,1.0,118.0,85.0,Mid Range,Sony DSC-U20,2002
+6.0,3.0,185.0,90.0,Mid Range,Sony DSC-T9,2005
+7.0,3.0,170.0,95.0,Mid Range,Sony DSC-T50,2006
+5.0,3.0,139.0,94.0,Mid Range,Sony DSC-T5,2005
+5.0,3.0,150.0,99.0,Mid Range,Sony DSC-T33,2005
+7.0,3.0,172.0,95.0,Mid Range,Sony DSC-T30,2006
+5.0,3.0,186.0,90.0,Mid Range,Sony DSC-T3,2004
+8.0,5.0,160.0,94.0,Mid Range,Sony DSC-T200,2007
+8.0,3.0,197.0,90.0,Mid Range,Sony DSC-T20,2007
+5.0,3.0,186.0,103.0,Mid Range,Sony DSC-T11,2004
+8.0,5.0,197.0,92.0,Mid Range,Sony DSC-T100,2007
+7.0,3.0,168.0,90.0,Mid Range,Sony DSC-T10,2006
+5.0,3.0,180.0,91.0,Mid Range,Sony DSC-T1,2003
+7.0,4.0,390.0,120.0,Mid Range,Sony DSC-V3,2004
+6.0,3.0,135.0,102.0,Mid Range,Pentax Optio WPi,2005
+3.0,2.8,205.0,98.0,Mid Range,Sanyo DSC-J1,2003
+8.0,3.0,220.0,106.0,Mid Range,Samsung Digimax V800,2005
+4.0,0.9,137.0,98.0,Mid Range,Samsung Digimax 401,2004
+3.0,3.3,157.0,108.0,Mid Range,Samsung Digimax 370,2004
+3.0,3.0,320.0,114.0,Mid Range,Samsung Digimax 350SE,2002
+3.0,0.9,137.0,98.0,Mid Range,Samsung Digimax 301,2004
+1.0,2.2,210.0,107.0,Mid Range,Samsung Digimax 250,2004
+1.0,1.3,135.0,98.0,Mid Range,Samsung Digimax 202,2004
+1.0,1.0,250.0,106.0,Mid Range,Samsung Digimax 130,2002
+5.0,4.8,185.0,106.0,Mid Range,Samsung Digimax A55W,2005
+5.0,1.0,175.0,97.0,Mid Range,Samsung Digimax A502,2005
+5.0,3.0,185.0,107.0,Mid Range,Samsung Digimax A50,2005
+1.0,2.5,800.0,148.0,Mid Range,Canon PowerShot Pro70,1998
+2.0,10.0,680.0,127.0,Mid Range,Canon PowerShot Pro90 IS,2001
+1.0,2.0,320.0,106.0,Mid Range,Canon PowerShot S10,1999
+2.0,3.0,380.0,131.0,Mid Range,Ricoh RDC-5300,1999
+3.0,3.0,340.0,116.0,Mid Range,Samsung Digimax 410,2002
+1.0,2.0,250.0,87.0,Mid Range,Canon PowerShot S100,2000
+7.0,3.0,128.0,95.0,Mid Range,Casio Exilim EX-Z77,2007
+3.0,10.0,469.0,111.0,Mid Range,Canon PowerShot S1 IS,2004
+10.0,3.0,260.0,112.0,Mid Range,Ricoh Caplio GX100,2007
+3.0,2.0,320.0,106.0,Mid Range,Canon PowerShot S20,2000
+6.0,3.0,200.0,91.0,Mid Range,Ricoh Caplio RR630,2006
+4.0,3.0,190.0,91.0,Mid Range,Ricoh Caplio RR530,2005
+1.0,2.0,250.0,87.0,Mid Range,Canon PowerShot S200,2002
+3.0,2.0,250.0,87.0,Mid Range,Canon PowerShot S230,2002
+5.0,12.0,505.0,113.0,Mid Range,Canon PowerShot S2 IS,2005
+6.0,5.7,165.0,95.0,Mid Range,Ricoh Caplio R40,2006
+3.0,3.0,323.0,112.0,Mid Range,Canon PowerShot S30,2001
+1.0,3.0,270.0,95.0,Mid Range,Canon PowerShot S300,2001
+1.0,3.0,274.0,95.0,Mid Range,Canon PowerShot S330,2002
+6.0,12.0,510.0,113.0,Mid Range,Canon PowerShot S3 IS,2006
+1.0,2.0,250.0,87.0,Mid Range,Canon PowerShot S110,2001
+3.0,2.8,340.0,106.0,Mid Range,Sanyo DSC-AZ1,2001
+3.0,3.3,210.0,107.0,Mid Range,Samsung Digimax 430,2004
+3.0,3.0,210.0,106.0,Mid Range,Samsung Digimax V4,2003
+7.0,3.0,220.0,106.0,Mid Range,Samsung Digimax V700,2005
+6.0,3.0,220.0,106.0,Mid Range,Samsung Digimax V6,2004
+5.0,3.2,230.0,106.0,Mid Range,Samsung Digimax V50,2004
+5.0,3.0,180.0,106.0,Mid Range,Samsung Digimax V5,2004
+3.0,3.2,230.0,106.0,Mid Range,Samsung Digimax V40,2004
+3.0,1.0,165.0,97.0,Mid Range,Samsung Digimax U-CA 401,2004
+4.0,3.0,169.0,102.0,Mid Range,Samsung Digimax U-CA 4,2004
+3.0,3.3,134.0,102.0,Mid Range,Samsung Digimax U-CA 3,2003
+3.0,1.0,855.0,150.0,Mid Range,Canon EOS D30,2000
+6.0,1.0,855.0,150.0,Mid Range,Canon EOS D60,2002
+3.0,3.0,490.0,120.0,Mid Range,Canon PowerShot G1,2000
+3.0,3.0,510.0,121.0,Mid Range,Canon PowerShot G2,2001
+10.0,5.0,254.0,105.0,Mid Range,Samsung S1050,2007
+10.0,3.0,220.0,100.0,Mid Range,Samsung S1030,2007
+5.0,3.0,195.0,110.0,Mid Range,Samsung Digimax 530,2004
+8.0,15.0,910.0,136.0,Mid Range,Samsung Pro815,2005
+7.0,3.0,155.0,95.0,Mid Range,Samsung NV3,2006
+10.0,5.4,240.0,107.0,Mid Range,Samsung NV11,2007
+10.0,3.0,190.0,97.0,Mid Range,Samsung NV10,2006
+3.0,4.0,490.0,121.0,Mid Range,Canon PowerShot G3,2002
+7.0,4.0,467.0,105.0,Mid Range,Canon PowerShot G6,2004
+10.0,6.0,380.0,106.0,Mid Range,Canon PowerShot G7,2006
+7.0,3.0,170.0,97.0,Mid Range,Samsung L700,2007
+8.0,3.0,160.0,93.0,Mid Range,Samsung L83T,2007
+7.0,3.0,180.0,90.0,Mid Range,Samsung i70,2007
+12.0,6.0,370.0,106.0,Mid Range,Canon PowerShot G9,2007
+5.0,3.0,155.0,90.0,Mid Range,Samsung Digimax i5,2005
+6.0,1.0,605.0,125.0,Mid Range,Samsung GX-1S,2006
+6.0,1.0,570.0,125.0,Mid Range,Samsung GX-1L,2006
+10.0,1.0,793.0,142.0,Mid Range,Samsung GX-10,2006
+7.0,7.1,290.0,106.0,Mid Range,Samsung NV7 OPS,2006
+7.0,3.0,176.0,95.0,Mid Range,Casio Exilim EX-S770,2006
+1.0,3.0,420.0,158.0,Mid Range,Agfa ePhoto 1680,1998
+6.0,3.6,155.0,94.0,Mid Range,Leica C-LUX 1,2006
+5.0,3.0,180.0,88.0,Mid Range,Nikon Coolpix 5200,2004
+4.0,3.0,414.0,102.0,Mid Range,Nikon Coolpix 5000,2001
+4.0,8.3,295.0,106.0,Mid Range,Nikon Coolpix 4800,2004
+3.0,3.0,180.0,85.0,Mid Range,Nikon Coolpix 4600,2005
+3.0,4.1,374.0,130.0,Mid Range,Nikon Coolpix 4500,2002
+3.0,3.0,286.0,95.0,Mid Range,Nikon Coolpix 4300,2002
+3.0,3.0,180.0,88.0,Mid Range,Nikon Coolpix 4200,2004
+4.0,3.0,200.0,92.0,Mid Range,Epson PhotoPC L-500V,2004
+3.0,3.0,162.0,95.5,Mid Range,Nikon Coolpix 3700,2003
+3.0,3.0,250.0,114.0,Mid Range,Nikon Coolpix 3500,2002
+3.0,3.0,190.0,88.0,Mid Range,Nikon Coolpix 3200,2004
+3.0,3.0,360.0,107.0,Mid Range,Epson PhotoPC 3000 Zoom,2000
+1.0,3.0,250.0,114.0,Mid Range,Nikon Coolpix 2500,2002
+1.0,3.0,190.0,88.0,Mid Range,Nikon Coolpix 2200,2004
+3.0,3.0,360.0,107.0,Mid Range,Epson PhotoPC 3100 Zoom,2001
+1.0,3.0,295.0,108.0,Mid Range,Nikon Coolpix 2000,2002
+10.0,12.0,734.0,141.0,Mid Range,Leica V-LUX 1,2006
+3.0,3.0,285.0,105.0,Mid Range,Epson PhotoPC L-300,2003
+10.0,4.0,220.0,106.0,Mid Range,Leica D-LUX 3,2006
+8.0,4.0,220.0,106.0,Mid Range,Leica D-LUX 2,2005
+1.0,3.0,270.0,79.0,Mid Range,Leica Digilux Zoom,2000
+7.0,1.0,606.0,146.0,Mid Range,Leica Digilux 3,2006
+4.0,3.2,705.0,135.0,Mid Range,Leica Digilux 2,2003
+3.0,3.0,455.0,127.0,Mid Range,Leica Digilux 1,2002
+3.0,6.0,400.0,100.0,Mid Range,Fujifilm FinePix S3000 Z,2003
+3.0,3.3,155.0,100.0,Mid Range,Kyocera Finecam SL400R,2004
+3.0,3.3,175.0,100.0,Mid Range,Kyocera Finecam SL300R,2003
+3.0,2.0,280.0,65.0,Mid Range,Fujifilm FinePix M603,2002
+9.0,10.7,750.0,128.0,Mid Range,Fujifilm FinePix IS-1,2007
+5.0,4.1,400.0,108.0,Mid Range,Nikon Coolpix 5400,2003
+5.0,3.0,180.0,85.0,Mid Range,Nikon Coolpix 5600,2005
+4.0,8.0,512.0,108.0,Mid Range,Nikon Coolpix 5700,2002
+5.0,3.0,185.0,88.0,Mid Range,Nikon Coolpix 5900,2005
+8.0,3.5,200.0,92.0,Mid Range,Nikon Coolpix P4,2006
+8.0,3.5,200.0,92.0,Mid Range,Nikon Coolpix P3,2006
+6.0,3.0,190.0,94.0,Mid Range,Fujifilm FinePix F20 Zoom,2006
+1.0,2.0,320.0,141.0,Mid Range,Casio QV-7000SX,1998
+1.0,8.0,320.0,141.0,Mid Range,Casio QV-8000SX,1999
+3.0,3.0,240.0,90.0,Mid Range,Casio QV-R3,2002
+4.0,3.0,240.0,90.0,Mid Range,Casio QV-R4,2002
+4.0,3.0,210.0,88.0,Mid Range,Casio QV-R40,2003
+3.0,3.0,198.0,88.0,Mid Range,Casio QV-R41,2004
+8.0,3.0,225.0,91.0,Mid Range,Nikon Coolpix L15,2007
+4.0,3.0,210.0,88.0,Mid Range,Casio QV-R51,2004
+6.0,3.0,218.0,88.0,Mid Range,Casio QV-R61,2004
+6.0,3.0,218.0,88.0,Mid Range,Casio QV-R62,2004
+4.0,3.0,260.0,112.0,Mid Range,Contax TVS Digital,2002
+6.0,4.1,250.0,110.0,Mid Range,Fujifilm FinePix F810 Zoom,2004
+1.0,1.0,280.0,113.0,Mid Range,Epson PhotoPC 800,1999
+3.0,3.0,450.0,143.0,Mid Range,Nikon Coolpix 990,2000
+1.0,3.0,480.0,143.0,Mid Range,Nikon Coolpix 950,1999
+1.0,3.0,420.0,157.0,Mid Range,Nikon Coolpix 900S,1998
+1.0,3.0,420.0,157.0,Mid Range,Nikon Coolpix 900,1998
+3.0,3.0,286.0,95.0,Mid Range,Nikon Coolpix 885,2001
+8.0,10.0,680.0,116.0,Mid Range,Nikon Coolpix 8800,2004
+3.0,2.5,320.0,99.5,Mid Range,Nikon Coolpix 880,2000
+8.0,8.0,512.0,113.0,Mid Range,Nikon Coolpix 8700,2004
+8.0,3.5,470.0,113.0,Mid Range,Nikon Coolpix 8400,2004
+1.0,2.0,360.0,119.0,Mid Range,Nikon Coolpix 800,1999
+7.0,3.0,185.0,88.0,Mid Range,Nikon Coolpix 7900,2005
+1.0,3.0,230.0,87.0,Mid Range,Nikon Coolpix 775,2001
+7.0,3.0,195.0,85.0,Mid Range,Nikon Coolpix 7600,2005
+1.0,1.0,340.0,114.0,Mid Range,Nikon Coolpix 700,1999
+3.0,4.0,420.0,138.0,Mid Range,Nikon Coolpix 995,2001
+3.0,4.1,225.0,110.0,Mid Range,Fujifilm FinePix F710,2004
+3.0,3.0,205.0,108.0,Mid Range,Fujifilm FinePix F700,2003
+6.0,5.0,200.0,105.0,Mid Range,Fujifilm FinePix F650 Zoom,2006
+5.0,3.0,192.0,90.0,Mid Range,Fujifilm FinePix A350 Zoom,2005
+4.0,3.0,170.0,93.0,Mid Range,Fujifilm FinePix A400 Zoom,2006
+4.0,2.8,275.0,103.0,Mid Range,Kodak Easyshare One,2005
+5.0,3.0,170.0,93.0,Mid Range,Fujifilm FinePix A500 Zoom,2006
+6.0,3.0,195.0,93.0,Mid Range,Fujifilm FinePix A600 Zoom,2006
+6.0,3.0,195.0,98.0,Mid Range,Fujifilm FinePix A610,2007
+8.0,3.0,200.0,98.0,Mid Range,Fujifilm FinePix A800,2007
+8.0,4.0,205.0,98.0,Mid Range,Fujifilm FinePix A820,2007
+9.0,4.0,205.0,98.0,Mid Range,Fujifilm FinePix A900,2007
+9.0,4.0,206.0,98.0,Mid Range,Fujifilm FinePix A920,2007
+4.0,3.2,226.0,101.0,Mid Range,Fujifilm FinePix E500 Zoom,2004
+5.0,3.2,226.0,101.0,Mid Range,Fujifilm FinePix E510 Zoom,2004
+6.0,4.1,260.0,105.0,Mid Range,Fujifilm FinePix E550 Zoom,2004
+9.0,4.0,260.0,102.0,Mid Range,Fujifilm FinePix E900 Zoom,2005
+4.0,3.0,192.0,90.0,Mid Range,Fujifilm FinePix A345 Zoom,2005
+6.0,3.0,205.0,72.0,Mid Range,Fujifilm FinePix F610,2003
+12.0,3.0,205.0,93.0,Mid Range,Fujifilm FinePix F50 fd,2007
+6.0,3.0,190.0,92.0,Mid Range,Fujifilm FinePix F10 Zoom,2005
+8.0,4.0,170.0,96.0,Mid Range,Fujifilm FinePix F480 Zoom,2007
+6.0,3.0,150.0,92.0,Mid Range,Fujifilm FinePix F470 Zoom,2006
+5.0,3.4,180.0,93.0,Mid Range,Fujifilm FinePix F455 Zoom,2004
+5.0,3.4,180.0,75.0,Mid Range,Fujifilm FinePix F450 Zoom,2004
+3.0,3.4,180.0,75.0,Mid Range,Fujifilm FinePix F440 Zoom,2004
+3.0,3.0,180.0,77.0,Mid Range,Fujifilm FinePix F420 Zoom,2003
+3.0,3.0,205.0,85.0,Mid Range,Fujifilm FinePix F410 Zoom,2003
+8.0,3.0,181.0,96.0,Mid Range,Fujifilm FinePix F40 fd,2007
+2.0,1.0,145.0,77.0,Mid Range,Fujifilm FinePix F402,2002
+2.0,3.0,200.0,85.0,Mid Range,Fujifilm FinePix F401 Zoom,2002
+6.0,3.0,185.0,93.0,Mid Range,Fujifilm FinePix F31 fd,2006
+6.0,3.0,185.0,93.0,Mid Range,Fujifilm FinePix F30 Zoom,2006
+3.0,3.0,280.0,72.0,Mid Range,Fujifilm FinePix F601Z,2002
+8.0,3.6,210.0,95.0,Mid Range,Nikon Coolpix P50,2007
+4.0,3.0,160.0,104.0,Mid Range,Fujifilm FinePix A340,2004
+3.0,3.0,190.0,97.0,Mid Range,Fujifilm FinePix A310 Zoom,2003
+4.0,10.0,340.0,107.0,Mid Range,Kyocera Finecam M410R,2004
+4.0,10.0,340.0,107.0,Mid Range,Kyocera Finecam M400R,2004
+4.0,3.0,220.0,112.0,Mid Range,Kyocera Finecam L4V,2003
+3.0,3.0,220.0,112.0,Mid Range,Kyocera Finecam L3V,2003
+3.0,3.0,220.0,111.0,Mid Range,Kyocera Finecam L30,2003
+3.0,2.0,240.0,38.0,Mid Range,Kyocera Finecam 3300,2000
+2.0,1.0,200.0,85.5,Mid Range,Fujifilm FinePix 40i,2000
+2.0,1.0,200.0,85.5,Mid Range,Fujifilm FinePix 50i,2001
+1.0,3.0,700.0,100.0,Mid Range,Fujifilm DS-260HD,1999
+1.0,3.0,700.0,153.0,Mid Range,Fujifilm DS-300,1997
+1.0,1.0,240.0,110.0,Mid Range,Fujifilm FinePix 1300,2000
+1.0,1.0,240.0,110.0,Mid Range,Fujifilm FinePix 2300,2001
+1.0,3.0,290.0,125.0,Mid Range,Fujifilm FinePix 2400 Zoom,2000
+1.0,3.0,260.0,99.0,Mid Range,Fujifilm FinePix 2600 Zoom,2001
+3.0,3.0,160.0,104.0,Mid Range,Fujifilm FinePix A330,2004
+1.0,3.0,235.0,100.0,Mid Range,Fujifilm FinePix 2650,2002
+1.0,1.0,200.0,85.0,Mid Range,Fujifilm Finepix 30i,2001
+3.0,6.0,400.0,100.0,Mid Range,Fujifilm FinePix 3800,2002
+2.0,3.0,280.0,80.0,Mid Range,Fujifilm FinePix 4800 Zoom,2001
+2.0,6.0,450.0,110.0,Mid Range,Fujifilm FinePix 4900 Zoom,2000
+3.0,3.0,280.0,80.0,Mid Range,Fujifilm FinePix 6800 Zoom,2001
+3.0,6.0,450.0,110.0,Mid Range,Fujifilm FinePix 6900 Zoom,2001
+1.0,1.0,190.0,99.0,Mid Range,Fujifilm FinePix A101,2001
+3.0,1.0,170.0,102.0,Mid Range,Fujifilm FinePix A120,2004
+1.0,1.0,180.0,99.0,Mid Range,Fujifilm FinePix A200,2002
+1.0,1.0,190.0,99.0,Mid Range,Fujifilm FinePix A201,2001
+1.0,3.0,180.0,97.0,Mid Range,Fujifilm FinePix A203,2002
+1.0,3.0,225.0,99.0,Mid Range,Fujifilm FinePix A205 Zoom,2003
+3.0,3.0,225.0,99.0,Mid Range,Fujifilm FinePix A210 Zoom,2003
+3.0,3.0,180.0,97.0,Mid Range,Fujifilm FinePix A303,2002
+1.0,6.0,360.0,95.0,Mid Range,Fujifilm FinePix 2800 Zoom,2001
+10.0,3.5,240.0,98.0,Mid Range,Nikon Coolpix P5000,2007
+5.0,3.6,185.0,91.0,Mid Range,Nikon Coolpix P2,2005
+4.0,3.0,420.0,118.0,Mid Range,Casio QV-5700,2002
+1.0,10.0,340.0,108.0,Mid Range,Olympus C-700 UZ,2001
+1.0,1.0,260.0,108.0,Mid Range,Casio QV-2100,2001
+5.0,3.0,230.0,99.0,Mid Range,Olympus C-60 Zoom,2004
+1.0,3.0,245.0,67.0,Mid Range,Casio QV-2300UX,2000
+4.0,3.0,230.0,100.0,Mid Range,Olympus C-50 Zoom,2002
+5.0,4.1,480.0,116.0,Mid Range,Olympus C-5060 Zoom,2003
+4.0,3.0,480.0,114.0,Mid Range,Olympus C-5050 Zoom,2002
+4.0,3.0,280.0,105.0,Mid Range,Olympus C-5000 Zoom,2003
+1.0,3.0,245.0,67.0,Mid Range,Casio QV-2400UX,2001
+1.0,8.0,295.0,81.0,Mid Range,Casio QV-2800UX,2000
+1.0,1.0,300.0,126.0,Mid Range,HP Photosmart C30,1998
+1.0,1.0,280.0,128.0,Mid Range,HP Photosmart C315,2000
+1.0,3.0,410.0,153.0,Mid Range,HP Photosmart C500,1999
+1.0,3.0,320.0,130.0,Mid Range,Casio QV-2000UX,1999
+1.0,8.0,295.0,81.0,Mid Range,Casio QV-2900UX,2001
+1.0,3.2,630.0,144.0,Mid Range,HP Photosmart C618,2000
+3.0,3.0,360.0,134.0,Mid Range,Casio QV-3000EX,2000
+3.0,3.0,360.0,134.0,Mid Range,Casio QV-3500EX,2001
+3.0,3.0,420.0,118.0,Mid Range,Casio QV-4000,2001
+1.0,1.0,320.0,147.0,Mid Range,Casio QV-5000SX,1998
+1.0,3.2,150.0,99.0,Mid Range,HP Photosmart C912,2000
+5.0,1.0,231.0,95.0,Mid Range,HP Photosmart E317,2005
+5.0,1.0,170.0,96.0,Mid Range,HP Photosmart E327,2006
+5.0,1.0,170.0,96.0,Mid Range,HP Photosmart E337,2007
+4.0,1.0,172.0,109.0,Mid Range,HP Photosmart M22,2005
+12.0,3.5,250.0,98.0,Mid Range,Nikon Coolpix P5100,2007
+3.0,2.8,177.0,107.0,Mid Range,HP Photosmart M307,2004
+4.0,2.8,190.0,95.0,Mid Range,HP Photosmart M407,2004
+3.0,1.0,245.0,115.0,Mid Range,Casio QV-3EX,2000
+3.0,8.0,340.0,108.0,Mid Range,Olympus C-720 UZ,2002
+3.0,10.0,400.0,108.0,Mid Range,Olympus C-730 UZ,2002
+3.0,10.0,340.0,108.0,Mid Range,Olympus C-740 UZ,2003
+4.0,3.0,190.0,105.0,Mid Range,Olympus D-595 Zoom,2005
+2.0,1.0,240.0,113.0,Mid Range,HP Photosmart 320,2002
+3.0,1.0,190.0,117.0,Mid Range,HP Photosmart 435,2003
+2.0,2.8,280.0,120.0,Mid Range,HP Photosmart 620,2002
+2.0,3.0,240.0,240.0,Mid Range,HP Photosmart 635,2003
+3.0,3.0,320.0,127.0,Mid Range,HP Photosmart 715,2001
+3.0,3.0,340.0,118.0,Mid Range,HP Photosmart 720,2002
+3.0,3.0,290.0,105.0,Mid Range,HP Photosmart 735,2003
+3.0,3.0,245.0,95.0,Mid Range,HP Photosmart 812,2002
+3.0,3.0,210.0,108.0,Mid Range,Olympus D-580 Zoom,2004
+3.0,3.0,220.0,108.0,Mid Range,Olympus D-560 Zoom,2003
+3.0,3.0,190.0,106.0,Mid Range,Olympus D-545 Zoom,2005
+3.0,3.0,200.0,100.0,Mid Range,Olympus D-540 Zoom,2004
+3.0,3.0,190.0,88.0,Mid Range,Olympus D-535 Zoom,2004
+1.0,3.0,220.0,112.0,Mid Range,Olympus D-520 Zoom,2002
+8.0,3.0,185.0,89.0,Mid Range,Casio Exilim EX-Z850,2006
+1.0,3.0,320.0,127.0,Mid Range,Olympus D-460 Zoom,2000
+1.0,1.0,320.0,101.0,Mid Range,Casio GV-10,2001
+3.0,8.1,489.0,114.0,Mid Range,HP Photosmart 850,2002
+5.0,3.0,260.0,97.0,Mid Range,HP Photosmart 935,2003
+1.0,1.0,320.0,101.0,Mid Range,Casio GV-20,2002
+5.0,8.1,500.0,123.0,Mid Range,HP Photosmart 945,2003
+1.0,1.0,300.0,127.0,Mid Range,HP Photosmart C20,1998
+1.0,1.0,300.0,126.0,Mid Range,HP Photosmart C200,1999
+1.0,1.0,290.0,124.0,Mid Range,HP Photosmart C215,2000
+8.0,5.0,724.0,124.0,Mid Range,Olympus C-8080 Wide Zoom,2004
+3.0,10.0,310.0,105.0,Mid Range,Olympus C-770 UZ,2004
+3.0,10.0,310.0,105.0,Mid Range,Olympus C-765 UZ,2004
+3.0,10.0,340.0,108.0,Mid Range,Olympus C-750 UZ,2003
+5.0,3.0,181.0,96.0,Mid Range,HP Photosmart M417,2005
+5.0,3.0,172.0,109.0,Mid Range,HP Photosmart M425,2006
+4.0,1.0,172.0,109.0,Mid Range,HP Photosmart M23,2005
+5.0,3.0,170.0,90.0,Mid Range,Fujifilm FinePix Z2,2005
+5.0,3.0,190.0,95.0,Mid Range,HP Photosmart M437,2007
+7.0,3.0,160.0,91.0,Mid Range,Fujifilm FinePix Z10  fd,2007
+5.0,3.0,170.0,90.0,Mid Range,Fujifilm FinePix Z1,2005
+5.0,3.6,185.0,83.0,Mid Range,Fujifilm FinePix V10 Zoom,2006
+9.0,10.7,750.0,128.0,Mid Range,Fujifilm FinePix S9100,2006
+9.0,10.7,745.0,128.0,Mid Range,Fujifilm FinePix S9000 Z,2005
+8.0,18.0,510.0,111.0,Mid Range,Fujifilm FinePix S8000 fd,2007
+6.0,6.0,590.0,121.0,Mid Range,Fujifilm FinePix S7000 Z,2003
+3.0,6.0,590.0,121.0,Mid Range,Fujifilm FinePix S602Z,2002
+3.0,3.0,216.0,83.0,Mid Range,Nikon Coolpix SQ,2003
+6.0,3.0,165.0,91.0,Mid Range,Nikon Coolpix S9,2006
+7.0,3.0,170.0,101.0,Mid Range,Nikon Coolpix S7c,2006
+6.0,3.0,170.0,101.0,Mid Range,Nikon Coolpix S6,2006
+7.0,3.0,175.0,98.0,Mid Range,Nikon Coolpix S51c,2007
+8.0,3.0,125.0,88.0,Mid Range,Nikon Coolpix S510,2007
+7.0,3.0,175.0,93.0,Mid Range,Nikon Coolpix S51,2007
+7.0,3.0,165.0,88.0,Mid Range,Nikon Coolpix S50c,2007
+1.0,1.0,320.0,131.0,Mid Range,Casio QV-5500SX,1999
+5.0,3.0,160.0,92.0,Mid Range,Nikon Coolpix S2,2005
+7.0,3.0,165.0,92.0,Mid Range,Nikon Coolpix S200,2007
+6.0,3.0,132.0,90.0,Mid Range,Nikon Coolpix S3,2005
+6.0,10.0,225.0,112.0,Mid Range,Nikon Coolpix S4,2005
+6.0,3.0,165.0,93.0,Mid Range,Nikon Coolpix S5,2006
+5.0,3.0,170.0,89.0,Mid Range,Fujifilm FinePix Z3,2006
+4.0,6.0,385.0,100.0,Mid Range,Fujifilm FinePix S3500 Zoom,2004
+7.0,3.0,165.0,88.0,Mid Range,Nikon Coolpix S500,2007
+3.0,10.0,430.0,113.0,Mid Range,Fujifilm FinePix S5000 Z,2003
+4.0,10.0,387.0,113.0,Mid Range,Fujifilm FinePix S5100 Zoom,2004
+5.0,10.0,470.0,114.0,Mid Range,Fujifilm FinePix S5200 Zoom,2005
+7.0,10.0,406.0,106.0,Mid Range,Fujifilm FinePix S5700 Zoom,2007
+6.0,10.7,700.0,131.0,Mid Range,Fujifilm FinePix S6000 fd,2006
+7.0,3.0,165.0,88.0,Mid Range,Nikon Coolpix S50,2007
+1.0,1.0,240.0,110.0,Mid Range,Fujifilm MX-1200,1999
+6.0,3.0,190.0,92.0,Mid Range,Fujifilm FinePix F11 Zoom,2005
+1.0,3.0,390.0,74.0,Mid Range,Fujifilm MX-1400,2000
+5.0,3.0,190.0,97.0,Mid Range,HP Photosmart M517,2005
+6.0,3.0,192.0,96.0,Mid Range,HP Photosmart M525,2006
+6.0,3.0,227.0,99.0,Mid Range,HP Photosmart M527,2006
+6.0,3.0,157.0,90.0,Mid Range,HP Photosmart M537,2007
+8.0,6.0,157.0,90.0,Mid Range,HP Photosmart Mz67,2007
+4.0,3.0,205.0,96.0,Mid Range,HP Photosmart R507,2004
+4.0,3.0,205.0,96.0,Mid Range,HP Photosmart R607,2004
+5.0,3.0,150.0,93.0,Mid Range,HP Photosmart R707,2004
+6.0,3.0,150.0,93.0,Mid Range,HP Photosmart R717,2005
+6.0,3.0,136.0,94.0,Mid Range,HP Photosmart R725,2006
+10.0,1.0,522.0,124.0,Mid Range,Nikon D40X,2007
+6.0,1.0,522.0,124.0,Mid Range,Nikon D40,2006
+7.0,3.0,190.0,91.0,Mid Range,HP Photosmart R742,2007
+5.0,5.0,205.0,100.0,Mid Range,HP Photosmart R817,2005
+5.0,5.0,200.0,96.0,Mid Range,HP Photosmart R818,2005
+6.0,3.0,190.0,91.0,Mid Range,HP Photosmart R727,2006
+2.0,3.0,385.0,130.0,Mid Range,Fujifilm MX-2900 Zoom,1999
+1.0,1.0,250.0,104.0,Mid Range,Fujifilm MX-1500,1999
+1.0,3.0,270.0,79.0,Mid Range,Fujifilm MX-1700,1999
+1.0,1.0,260.0,80.0,Mid Range,Fujifilm MX-700,1998
+1.0,1.0,220.0,123.0,Mid Range,Fujifilm MX-500,1998
+2.0,3.0,280.0,78.0,Mid Range,Fujifilm FinePix 4700 Zoom,2000
+7.0,3.0,227.0,105.0,Mid Range,HP Photosmart R837,2007
+2.0,1.0,260.0,80.0,Mid Range,Fujifilm MX-2700,1999
+16.0,1.0,1565.0,156.0,High End,Canon EOS-1Ds Mark II,2004
+11.0,1.0,1585.0,156.0,High End,Canon EOS-1Ds,2002
+6.0,1.0,920.0,147.0,High End,Fujifilm FinePix S5 Pro,2006
+4.0,1.0,1585.0,156.0,High End,Canon EOS-1D,2001
+6.0,1.0,920.0,147.0,High End,Fujifilm FinePix IS Pro,2007
+6.0,1.0,875.0,150.0,High End,Canon EOS 10D,2003
+3.0,1.0,820.0,148.0,High End,Fujifilm FinePix S1 Pro,2000
+1.0,7.9,600.0,142.0,High End,Sony Mavica FD-88,1999
+10.0,1.0,1335.0,156.0,High End,Canon EOS-1D Mark III,2007
+8.0,1.0,1565.0,156.0,High End,Canon EOS-1D Mark II N,2005
+1.0,10.0,990.0,126.0,High End,Sony Mavica FD-97,2001
+1.0,3.0,630.0,143.0,High End,Sony Mavica FD-87,2001
+1.0,8.0,660.0,126.0,High End,Sony Mavica FD-92,2001
+3.0,6.0,590.0,121.0,High End,Fujifilm FinePix S602Z Pro,2002
+1.0,3.0,520.0,142.0,High End,Sony Mavica FD-200,2002
+8.0,1.0,1565.0,156.0,High End,Canon EOS-1D Mark II,2004
+6.0,6.0,597.0,121.0,High End,Fujifilm FinePix S20 Pro,2004
+4.0,1.0,735.0,141.0,High End,Olympus E-1,2003
+8.0,1.0,770.0,144.0,High End,Canon EOS 20D,2004
+7.0,3.6,170.0,94.0,High End,Panasonic Lumix DMC-FX07,2006
+6.0,3.0,155.0,94.0,High End,Panasonic Lumix DMC-FX10,2007
+12.0,3.6,150.0,54.0,High End,Panasonic Lumix DMC-FX100,2007
+7.0,3.0,155.0,94.0,High End,Panasonic Lumix DMC-FX12,2007
+4.0,3.0,148.0,94.0,High End,Panasonic Lumix DMC-FX2,2004
+1.0,1.0,250.0,123.0,High End,Olympus D-380,2002
+1.0,1.0,190.0,123.0,High End,Olympus D-370,2001
+1.0,1.0,190.0,110.0,High End,Olympus C-1,2001
+7.0,3.6,190.0,98.0,High End,Panasonic Lumix DMC-FX50,2006
+8.0,3.6,165.0,95.0,High End,Panasonic Lumix DMC-FX55,2007
+4.0,3.0,153.0,94.0,High End,Panasonic Lumix DMC-FX7,2004
+6.0,3.6,155.0,94.0,High End,Panasonic Lumix DMC-FX01,2006
+5.0,3.0,155.0,94.0,High End,Panasonic Lumix DMC-FX8,2005
+10.0,1.0,668.0,132.0,High End,Nikon D80,2006
+6.0,1.0,679.0,140.0,High End,Nikon D70s,2005
+6.0,1.0,679.0,140.0,High End,Nikon D70,2004
+6.0,1.0,620.0,133.0,High End,Nikon D50,2005
+12.0,1.0,925.0,147.0,High End,Nikon D300,2007
+12.0,1.0,1300.0,160.0,High End,Nikon D3,2007
+12.0,1.0,1200.0,158.0,High End,Nikon D2Xs,2006
+12.0,1.0,1200.0,158.0,High End,Nikon D2X,2004
+4.0,1.0,1200.0,158.0,High End,Nikon D2Hs,2005
+4.0,1.0,1200.0,158.0,High End,Nikon D2H,2003
+7.0,1.0,606.0,146.0,High End,Panasonic Lumix DMC-L1,2006
+6.0,3.0,155.0,94.0,High End,Panasonic Lumix DMC-FX9,2005
+10.0,1.0,556.0,135.0,High End,Panasonic Lumix DMC-L10,2007
+1.0,2.0,200.0,104.0,High End,Panasonic Lumix DMC-F7,2001
+1.0,1.0,220.0,110.0,High End,Olympus C-2,2001
+3.0,4.0,1190.0,129.0,High End,Olympus E-10,2000
+4.0,4.0,1190.0,129.0,High End,Olympus E-20,2001
+10.0,1.0,800.0,142.0,High End,Olympus E-3,2007
+8.0,1.0,624.0,147.0,High End,Olympus E-300,2004
+7.0,1.0,616.0,140.0,High End,Olympus E-330,2006
+10.0,1.0,435.0,130.0,High End,Olympus E-400,2006
+10.0,1.0,435.0,130.0,High End,Olympus E-410,2007
+8.0,1.0,479.0,130.0,High End,Olympus E-500,2005
+10.0,1.0,490.0,136.0,High End,Olympus E-510,2007
+5.0,1.0,140.0,101.0,High End,Olympus D-435,2005
+3.0,1.0,170.0,101.0,High End,Olympus D-425,2005
+1.0,3.0,190.0,110.0,High End,Olympus D-150Z,2001
+3.0,1.0,210.0,110.0,High End,Olympus D-395,2004
+1.0,1.0,280.0,128.0,High End,Olympus D-360L,2000
+1.0,1.0,320.0,128.0,High End,Olympus D-340R,1999
+1.0,1.0,320.0,128.0,High End,Olympus D-340L,1998
+6.0,1.0,850.0,142.0,High End,Fujifilm FinePix S2 Pro,2002
+3.0,2.8,270.0,87.0,High End,Olympus D-40 Zoom,2001
+3.0,3.0,420.0,109.0,High End,Olympus C-3040 Zoom,2000
+3.0,3.0,380.0,109.0,High End,Olympus C-3030 Zoom,2000
+3.0,3.0,380.0,109.0,High End,Olympus C-3020 Zoom,2001
+3.0,2.8,300.0,118.0,High End,Olympus C-300 Zoom,2002
+3.0,3.0,380.0,109.0,High End,Olympus C-3000 Zoom,2000
+1.0,1.0,190.0,107.0,High End,Olympus C-21,1999
+1.0,1.0,230.0,108.0,High End,Olympus D-390,2003
+21.0,1.0,1385.0,150.0,High End,Canon EOS-1Ds Mark III,2007
+4.0,3.2,705.0,135.0,High End,Panasonic Lumix DMC-LC1,2004
+3.0,3.0,215.0,96.0,High End,Panasonic Lumix DMC-LC33,2003
+3.0,3.0,205.0,92.0,High End,Kyocera Finecam S3R,2003
+3.0,3.0,320.0,135.0,High End,Ricoh RDC-7,2000
+3.0,3.0,320.0,142.0,High End,Ricoh RDC-i500,2001
+3.0,3.0,205.0,92.0,High End,Kyocera Finecam S3L,2002
+3.0,2.0,160.0,30.0,High End,Kyocera Finecam S3,2001
+6.0,1.0,620.0,142.0,High End,Epson R-D1,2004
+12.0,1.0,895.0,152.0,High End,Canon EOS 5D,2005
+10.0,1.0,822.0,146.0,High End,Canon EOS 40D,2007
+3.0,3.0,185.0,91.0,High End,Sanyo Xacti DSC-S3,2004
+3.0,2.8,185.0,91.0,High End,Sanyo Xacti DSC-S4,2004
+10.0,1.0,556.0,127.0,High End,Canon EOS 400D / Digital Rebel XTi,2006
+3.0,3.0,175.0,32.0,High End,Kyocera Finecam S3x,2002
+4.0,1.0,270.0,109.0,High End,Sigma DP1,2006
+8.0,1.0,540.0,127.0,High End,Canon EOS 350D / Digital Rebel XT,2005
+8.0,1.0,784.0,144.0,High End,Canon EOS 30D,2006
+1.0,10.0,980.0,125.0,High End,Sony Mavica CD1000,2000
+1.0,3.0,620.0,144.0,High End,Sony Mavica CD200,2001
+1.0,3.0,610.0,138.0,High End,Sony Mavica CD250,2002
+3.0,3.0,620.0,144.0,High End,Sony Mavica CD300,2001
+3.0,3.0,522.0,132.0,High End,Sony Mavica CD350,2003
+3.0,3.0,640.0,138.0,High End,Sony Mavica CD400,2002
+5.0,3.0,606.0,139.0,High End,Sony Mavica CD500,2003
+6.0,1.0,645.0,142.0,High End,Canon EOS 300D / Digital Rebel,2003
+8.0,1.0,770.0,144.0,High End,Canon EOS 20Da,2005
+3.0,1.0,950.0,152.0,High End,Sigma SD10,2003
+1.0,3.0,290.0,99.0,High End,Panasonic Lumix DMC-LC20,2002
+3.0,3.0,175.0,32.0,High End,Kyocera Finecam S4,2002
+5.0,3.0,205.0,92.0,High End,Kyocera Finecam S5R,2003
+3.0,3.0,420.0,104.0,High End,Panasonic Lumix DMC-LC40,2002
+4.0,3.0,215.0,96.0,High End,Panasonic Lumix DMC-LC43,2003
+3.0,3.0,435.0,128.0,High End,Panasonic Lumix DMC-LC5,2001
+3.0,3.0,210.0,65.0,High End,Panasonic Lumix DMC-LC50,2004
+4.0,3.0,210.0,65.0,High End,Panasonic Lumix DMC-LC70,2004
+4.0,3.0,207.0,88.0,High End,Panasonic Lumix DMC-LC80,2004
+4.0,3.0,188.0,94.0,High End,Panasonic Lumix DMC-LS1,2005
+5.0,3.0,188.0,111.0,High End,Panasonic Lumix DMC-LS2,2006
+10.0,1.0,920.0,147.0,High End,Nikon D200,2005
+7.0,3.0,188.0,94.0,High End,Panasonic Lumix DMC-LS75,2007
+8.0,4.0,220.0,106.0,High End,Panasonic Lumix DMC-LX1,2005
+5.0,3.0,205.0,92.0,High End,Kyocera Finecam S5,2002
+10.0,4.0,220.0,106.0,High End,Panasonic Lumix DMC-LX2,2006
+2.0,1.0,1200.0,157.0,High End,Nikon D1H,2001
+6.0,1.0,780.0,144.0,High End,Nikon D100,2002
+2.0,1.0,1200.0,157.0,High End,Nikon D1,1999
+6.0,1.0,650.0,129.0,High End,Pentax *ist D,2003
+6.0,1.0,565.0,125.0,High End,Pentax *ist DL,2005
+6.0,1.0,565.0,125.0,High End,Pentax *ist DL2,2006
+6.0,1.0,605.0,125.0,High End,Pentax *ist DS,2004
+6.0,1.0,605.0,125.0,High End,Pentax *ist DS2,2005
+10.0,1.0,793.0,142.0,High End,Pentax K10D,2006
+1.0,3.1,520.0,115.0,High End,Olympus D-620L,1998
+8.0,1.0,200.0,107.0,High End,Ricoh GR Digital,2005
+5.0,1.0,1200.0,157.0,High End,Nikon D1X,2001
+6.0,1.0,930.0,148.0,High End,Fujifilm FinePix S3 Pro,2004

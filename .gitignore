@@ -1,0 +1,18 @@
+# --- Python Cache (File sampah hasil kompilasi) ---
+__pycache__/
+*.pyc
+
+# --- Jupyter Notebook Checkpoints (Backup otomatis) ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- VS Code Settings (Settingan lokal laptopmu) ---
+.vscode/
+
+# --- System Files (Sampah Mac/Windows) ---
+.DS_Store
+Thumbs.db
+
+# --- Virtual Environment (Kalau kamu pakai venv) ---
+env/
+venv/
